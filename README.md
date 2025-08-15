@@ -14,14 +14,12 @@ A utility that reads a text file and provides statistics about its content.
 
 - 📚 Simple CLI-based interface
 
----
-
 ## 🛠 Requirements
 
 - C Compiler (e.g., GCC)
 - A `.txt` file to analyse
 
----
+
 
 ## 📂 File Structure
 
@@ -34,7 +32,6 @@ text-file-analyzer/
 
 ````
 
----
 
 ## ⚙️ How to Compile and Run
 
@@ -52,7 +49,6 @@ gcc text_analyzer.c -o analyzer.exe
 analyzer.exe
 ```
 
----
 
 ## 📥 Input Example
 
@@ -62,7 +58,7 @@ You'll be prompted to enter the path to a `.txt` file, such as:
 Enter file name to analyze: sample.txt
 ```
 
----
+
 
 ## 📌 Sample Output
 
@@ -85,7 +81,6 @@ Total Lines     : 4
 ...
 ```
 
----
 
 ## 🧠 Concepts Used
 
@@ -96,24 +91,3 @@ Total Lines     : 4
 * Word frequency logic
 
 ---
-
-## 📦 Future Enhancements (Optional)
-
-* Sentence and paragraph detection
-* Sorting output (by frequency)
-* Export results to CSV or JSON
-* Graphical mode using `ncurses`
-
----
-
-## 👨‍🎓 Project Info
-
-* **Language**: C (C99 standard)
-* **Level**: Beginner to Intermediate
-* **Author**: \[Your Name]
-* **Use Case**: Academic submission / Personal utility
-
----
-
-Let me know and I’ll prepare it!
-```
