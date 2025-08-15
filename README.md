@@ -1,16 +1,6 @@
 # Text-File-Analyser
 A utility that reads a text file and provides statistics about its content.
 
-Here is a clean and professional **`README.md`** file for your **Text File Analyzer in C** project:
-
----
-
-```markdown
-# 📄 Text File Analyser (C Language)
-
-A C-based utility that reads a text file and provides detailed statistics about its content.  
-Perfect for beginner-level file I/O practice and text processing.
-
 ---
 
 ## ✅ Features
